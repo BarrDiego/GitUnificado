@@ -3,3 +3,5 @@ creado en master
 linea agregada en master
 
 linea agregada en testing
+
+linea agregada en testing antes del checkout
